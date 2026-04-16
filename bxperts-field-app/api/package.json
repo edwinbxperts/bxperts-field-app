@@ -1,0 +1,9 @@
+{
+  "name": "bxperts-field-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API proxy for Bxperts Field Portal",
+  "main": "index.js",
+  "dependencies": {
+    "@azure/functions": "^4.0.0"
+  }
+}
